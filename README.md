@@ -1,5 +1,7 @@
 <div align="center">
 
+![banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV1dDlmY2d4ZmJiZHl0YXF5eXIwbG5oaWdhM2RyNTUyZTdnNHpkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwFRQmKBO4M9nTq/giphy.gif)
+
 ## **🦈Sobre mim🦈**
 
 **`sempre tento o meu melhor em tudo o que faço!`**
