@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jaky37/Jaky37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ***🦈Sobre mim🦈***
 
-Here are some ideas to get you started:
+**`sempre tento o meu melhor em tudo o que faço!`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='justify'> 
+  Meu principal objetivo é contribuir ativamente em <b>projetos open-source e inovadores</b>. 
+  Possuo foco em <b>qualidade de código, performance, trabalho em equipe e boas práticas de desenvolvimento.</b></p>
+
+<br>
+
+## ***🛠️ Linguagens e ferramentas***
+
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GIT-button.png" height="28" alt="Git">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">
+
+<br>
+
+## ***🖥️Sistemas operacionais***
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/LINUX-button.png" height="28" alt="Linux">
+<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/WINDOWS-button.png" height="28" alt="Windows">
+
+<br>
+
+## ***Linguas faladas***
+<p align>Inglês intermediario</p>
+<p align>Alemão iniciante</p>
+
