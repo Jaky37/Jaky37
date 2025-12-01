@@ -13,7 +13,6 @@
 <br>
 
 ## **🛠️ Linguagens e ferramentas**
-<img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/JAVA-button.png" height="28" alt="Java">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/PHP-button.png" height="28" alt="PHP">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/HTML-button.png" height="28" alt="HTML 5">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GIT-button.png" height="28" alt="Git">
