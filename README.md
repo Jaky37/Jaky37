@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/HTML-button.png" height="28" alt="HTML 5">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/GIT-button.png" height="28" alt="Git">
 <img src="https://raw.githubusercontent.com/lubisca/retro-badges/main/assets/VSCODE-button.png" height="28" alt="VS Code">
-<img src="https://raw.githubusercontent.com/jaky37/badges/main/assets/java.png" height="28" alt="CSS 3">
+<img src="https://raw.githubusercontent.com/jaky37/badges/main/assets/java-2.png" height="28" alt="java">
 <br>
 
 ## **🖥️Sistemas operacionais**
