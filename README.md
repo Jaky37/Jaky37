@@ -6,7 +6,6 @@
 
 **`sempre tento o meu melhor em tudo o que faço!`**
 
-<p align='justify'> 
   Meu principal objetivo é contribuir ativamente em <b>projetos open-source e inovadores</b>. 
   Possuo foco em <b>qualidade de código, performance, trabalho em equipe e boas práticas de desenvolvimento.</b></p>
 
