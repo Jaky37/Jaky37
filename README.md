@@ -4,7 +4,6 @@
 
 ## **🦈Sobre mim🦈**
 
-**`sempre tento o meu melhor em tudo o que faço!`**
 
   Meu principal objetivo é contribuir ativamente em <b>projetos open-source e inovadores</b>. 
   Possuo foco em <b>qualidade de código, performance, trabalho em equipe e boas práticas de desenvolvimento.</b></p>
